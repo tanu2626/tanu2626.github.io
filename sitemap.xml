@@ -8,15 +8,15 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <loc>https://tanu2626.github.io/</loc>
   </url>
   <url>
-    <loc>https://tanu2626.github.io/contactme.html</loc>
+    <loc>https://tanu2626.github.io/index.html</loc>
   </url>
   <url>
-    <loc>https://burntcaramel.github.io/portfolio.html/</loc>
+    <loc>https://burntcaramel.github.io/portfolio/index.html/</loc>
   </url>
   <url>
-    <loc>https://burntcaramel.github.io/influences/</loc>
+    <loc>https://burntcaramel.github.io/contactme/index.html</loc>
   </url>
   <url>
-    <loc>https://burntcaramel.github.io/about/</loc>
+    <loc>https://burntcaramel.github.io/aboutme/index.html</loc>
   </url>
 </urlset>

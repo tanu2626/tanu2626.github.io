@@ -53,6 +53,7 @@ ul.topnav li.right {
   text-align: center;
   font-family: fantasy;
   padding-top: 2%;
+  font-weight: bold;
 
 }
 
@@ -79,8 +80,13 @@ ul.topnav li.right {
 }
 
 #randomimage{
-  padding-left: 10%;
+  padding-left: 10%
   float: left;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+
 }
 
 .graph{
@@ -90,6 +96,31 @@ ul.topnav li.right {
   margin: auto;
   padding-top: 7%;
   text-align: center;
+}
+
+.row1{
+  display: block;
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.writing{
+  color: #8607D9;
+  font-family: Calibri;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.card-content{
+  color: #8607D9;
+  font-family: Calibri;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
 }
 
 /* #social is a id for social links for contactmee.html,ABoutme.html,homepage.html and portfolio.html */
@@ -256,9 +287,39 @@ article p{
   width: 75%;
 }
 
+.aboutimagegoogle{
+
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  padding-top: 2%;
+  text-align: center;
+  }
+
+.aboutpara{
+  color: #8607D9;
+  font-family: Calibri;
+  font-size: 20px;
+  font-style: italic;
+  padding-top: 0.2%;
+}
+.aboutimagetanu{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  padding-right: 10%;
+
+}
+
 #contact_form{
-color: #8607D9;
-font-size: 25px;
-padding: 10%;
-padding-left: 37%;
+  color: #8607D9;
+  font-size: 25px;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  padding-top: 7%;
+  text-align: center;
 }
