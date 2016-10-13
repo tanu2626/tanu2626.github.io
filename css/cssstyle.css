@@ -84,9 +84,7 @@ ul.topnav li.right {
 }
 
 .graph{
-  text-align: center;
-  display: block;
-
+  padding-left: 20%;
 }
 
 /* #social is a id for social links for contactmee.html,ABoutme.html,homepage.html and portfolio.html */
@@ -112,10 +110,6 @@ End of Homepage css
   padding-left: 1%;
 }
 
-.aboutpara {
-  font-size: 15px;
-  font-style: italic;
-}
 
 /* .card - this class is the css for card
     .container - it is a class inside card
