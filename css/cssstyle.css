@@ -85,6 +85,11 @@ ul.topnav li.right {
 
 .graph{
   padding-left: 20%;
+  text-align: center;
+  display: block;
+  width: 400px;
+  height: 400px;
+
 }
 
 /* #social is a id for social links for contactmee.html,ABoutme.html,homepage.html and portfolio.html */
