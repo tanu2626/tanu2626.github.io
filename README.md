@@ -43,7 +43,7 @@ it is making my portfolio more complicated.
 
 ### HTML
 
-I built my website in HTML5, using tags such as `<div>',`<header>` and `<footer>` to add more meaning to my structure.
+I built my website in HTML5, using tags such as`<div>',`<header>` and `<footer>` to add more meaning to my structure.
 
 ### Meta tags
 
