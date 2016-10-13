@@ -110,6 +110,10 @@ End of Homepage css
   padding-left: 1%;
 }
 
+.aboutpara {
+  font-size: 15px;
+  font-style: italic;
+}
 
 /* .card - this class is the css for card
     .container - it is a class inside card
