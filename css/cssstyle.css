@@ -85,6 +85,9 @@ ul.topnav li.right {
 
 .graph{
   display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
   padding-top: 7%;
   text-align: center;
 }
