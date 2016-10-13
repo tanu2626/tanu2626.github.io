@@ -98,6 +98,15 @@ ul.topnav li.right {
   text-align: center;
 }
 
+.resumeimage{
+  display: block;
+  max-width: 50%;
+  height: auto;
+  margin: auto;
+  padding-top: 2%;
+  text-align: center;
+}
+
 .row1{
   display: block;
   width: 400px;
@@ -128,6 +137,12 @@ ul.topnav li.right {
 #social{
   display: block;
   padding-top: 11%;
+  text-align: center;
+}
+
+#socialdropbox{
+  display: block;
+  padding-top: 1%;
   text-align: center;
 }
 
