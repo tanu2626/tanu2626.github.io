@@ -79,6 +79,8 @@ ul.topnav li.right {
   text-decoration: none;
 }
 
+/* random image id */
+
 #randomimage{
   padding-left: 10%
   float: left;
@@ -89,6 +91,8 @@ ul.topnav li.right {
 
 }
 
+/* graph class */
+
 .graph{
   display: block;
   max-width: 100%;
@@ -97,6 +101,8 @@ ul.topnav li.right {
   padding-top: 7%;
   text-align: center;
 }
+
+/* class for resume image */
 
 .resumeimage{
   display: block;
@@ -117,12 +123,16 @@ ul.topnav li.right {
 
 }
 
+/* class for writing */
+
 .writing{
   color: #8607D9;
   font-family: Calibri;
   font-size: 20px;
   font-style: italic;
 }
+
+/* card content */
 
 .card-content{
   color: #8607D9;
@@ -139,6 +149,8 @@ ul.topnav li.right {
   padding-top: 11%;
   text-align: center;
 }
+
+/* id for social links */
 
 #socialdropbox{
   display: block;
@@ -319,6 +331,7 @@ article p{
   font-style: italic;
   padding-top: 0.2%;
 }
+
 .aboutimagetanu{
   display: block;
   max-width: 100%;
@@ -327,6 +340,8 @@ article p{
   padding-right: 10%;
 
 }
+
+/* contact form id */
 
 #contact_form{
   color: #8607D9;
