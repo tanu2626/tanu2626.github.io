@@ -6,36 +6,43 @@
   <!-- make width of the device and keep the correct scale added so website doesnt shrink on a phone for example -->
   <meta http-equiv="X-UA-Compatible" >
 
+  <!-- main link to the style sheet -->
   <link rel="stylesheet" type="text/css" href="/css/cssstyle.css"/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
 </head>
 
 <body>
+
+  <!-- navigation bar -->
   <ul class="topnav">
-    <li><a href="/index.html">Home</a></li>
-    <li><a href="/portfolio/index.html">Portfolio</a></li>
-    <li><a class="active" href="/contactme/index.html">Contact Me</a></li>
-    <li><a href="/resume/index.html">Resume</a></li>
-    <li class="right"><a href="/aboutme/index.html">AboutMe</a></li>
+      <li><a href="/index.html">Home</a></li>
+          <li><a href="/portfolio/index.html">Portfolio</a></li>
+              <li><a class="active" href="/contactme/index.html">Contact Me</a></li>
+                  <li><a href="/resume/index.html">Resume</a></li>
+                      <li class="right"><a href="/aboutme/index.html">AboutMe</a></li>
   </ul>
 
+
+<!-- contact me form -->
 <div>
-<form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
-	<div class="rowco">
-		<label for="name">Your name:</label><br />
-		<input id="name" class="input" name="name" type="text" value="" size="30" /><br />
-	</div>
-	<div class="rowco">
-		<label for="email">Your email:</label><br />
-		<input id="email" class="input" name="email" type="text" value="" size="30" /><br />
-	</div>
-	<div class="rowco">
-		<label for="message">Your message:</label><br />
-		<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
-	</div>
-	<input id="submit_button" type="submit" value="Send email" />
-</form>
+    <form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
+    	<div class="rowco">
+		        <label for="name">Your name:</label><br />
+		          <input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+      </div>
+<div class="rowco">
+		    <label for="email">Your email:</label><br />
+		     <input id="email" class="input" name="email" type="text" value="" size="30" /><br />
 </div>
+	<div class="rowco">
+		      <label for="message">Your message:</label><br />
+		      <textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+	</div>
+	      <input id="submit_button" type="submit" value="Send email" />
+  </form>
+</div>
+
+<!-- social links -->
 
 <div id="social">
 <a href="https://www.facebook.com/tanu.sharma.90038"><i class="fa fa-facebook-square" style="font-size:60px; aria-hidden="true"></i></a>

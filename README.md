@@ -12,7 +12,7 @@ This is the first page that people will see, so I want a very clear and simple n
 
 Secondly, the next div I added is to put the random information about me so that the my portfolio looks casual yet professional at the same time. I added a image saying some "random things about me" followed by the card listing my random things people would like to know.
 
-Thirdly,the next div I created to add a graph chart showing my Technical skills. 
+Thirdly,the next div I created to add a graph chart showing my Technical skills.
 
 At the end of the page, I have created a footer showing all my social links such as Facebook, Instagram, Github and Codepen. I have found these social links images from the fontawesome.com
 
@@ -33,12 +33,12 @@ I have found these social links images from the fontawesome.com
 
 ## Designs
 
-Initially i was using Figma to create my design for the website but later I made by design myself with a simple white and purple 
+Initially i was using Figma to create my design for the website but later I made by design myself with a simple white and purple
 theme.
 
 ## Building
 
-I tried to go as minimal as possible with HTML & CSS. I was using bootstrap at the starting but I dropped that idea because 
+I tried to go as minimal as possible with HTML & CSS. I was using bootstrap at the starting but I dropped that idea because
 it is making my portfolio more complicated.
 
 ### HTML
@@ -51,7 +51,7 @@ I add `description` and `author` meta tags to my primary pages: Home and About. 
 
 ### CSS
 
-I have made my CSS very organised by stating comments with their page title so that it is easy to understand. 
+I have made my CSS very organised by stating comments with their page title so that it is easy to understand.
 
 ### Images & Icons
 
@@ -71,4 +71,3 @@ as they have good catalog of emoticons. I sized the logos to 200% size, using `f
 ## Live Website
 
 https://tanu2626.github.io/
-
