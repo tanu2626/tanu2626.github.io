@@ -1,0 +1,252 @@
+/* homepage css
+
+css for navigation bar */
+
+body {
+  margin: 0;
+}
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ul.topnav li {
+  float: left;
+}
+
+ul.topnav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {
+  background-color: #111;
+}
+
+ul.topnav li a.active {
+  background-color: #8607D9;;
+}
+
+ul.topnav li.right {
+  float: right;
+}
+
+@media screen and (max-width: 600px){
+    ul.topnav li.right,
+    ul.topnav li {
+      float: none;
+    }
+}
+
+/*Main heading id for eg My name is Tanu Sharma */
+
+#name{
+  color: black;
+  font-size: 29px;
+  text-align: center;
+  font-family: fantasy;
+  padding-top: 2%;
+
+}
+
+/* #homeinfo is a id for subheading of the homepage */
+
+#homeinfo{
+  color:#8607D9;
+  font-size: 19px;
+  text-align: center;
+  font-style: italic;
+  font-family: Trebuchet MS;
+
+}
+
+/* .mmainimage is a class for main image in the homepage */
+
+.mmainimage {
+  width: 400px;
+  height: 400px;
+  float: none;
+  padding-left: 10%;
+  text-align: center;
+text-decoration: none;
+}
+
+/* #social is a id for social links for contactmee.html,ABoutme.html,homepage.html and portfolio.html */
+
+#social{
+  display: inline;
+  padding: 38%;
+  padding-top: 11%;
+  text-align: center;
+  text-decoration: none;
+}
+
+/*  ***************
+End of Homepage css
+*****************
+*/
+
+
+/* css for ABboutme.html
+
+.aboutmepadding - this class adjusts the padding from navigation bar to the cards and content */
+
+.aboutmepadding{
+  padding-top: 5%;
+  padding-left: 1%;
+}
+
+
+/* .card - this class is the css for card
+    .container - it is a class inside card
+ */
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 20%;
+    width: 350px;
+   border: 1px solid gray;
+   float: right;
+
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+}
+
+/* css for portfolio gallery */
+
+div.img {
+
+  border: 1px solid #ccc;
+
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.responsive {
+    padding: 0.6px;
+    float: left;
+    width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px){
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .responsive {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* heading h2 for portfolio heading */
+
+h2 {
+    color: #8607D9;
+}
+
+/* heading h2 for portfolio heading */
+
+  h4{
+  color: #8607D9;
+}
+
+
+
+
+article p{
+  color: #8607D9;
+  font-family: sans-serif;
+}
+
+
+
+
+
+
+.about{
+  border: 10px;
+  border-width: medium;
+
+}
+
+.aboutmeimage{
+  padding-top: 50px;
+  padding-left: 45%;
+  text-align: center;
+  border-radius: 20px;
+}
+
+
+.name1{
+  color:white;
+  font-size: 29px;
+  text-align: center;
+  font-family: fantasy;
+  padding-top: 18%;
+  image: url("/Users/rohitanu/Downloads/Untitled (1).png");
+
+}
+* {
+    box-sizing: border-box;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+}
+.col-9 {
+  width: 75%;
+}
+
+#contact_form{
+color: #8607D9;
+font-size: 25px;
+padding: 10%;
+padding-left: 37%;
+}
