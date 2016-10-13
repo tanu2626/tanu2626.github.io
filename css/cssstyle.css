@@ -70,22 +70,29 @@ ul.topnav li.right {
 /* .mmainimage is a class for main image in the homepage */
 
 .mmainimage {
+  display: block;
   width: 400px;
   height: 400px;
-  float: none;
-  padding-left: 10%;
+  margin: auto;
   text-align: center;
-text-decoration: none;
+  text-decoration: none;
+}
+
+#randomimage{
+  padding-left: 10%;
+  float: left;
+}
+
+.graph{
+  padding-left: 20%;
 }
 
 /* #social is a id for social links for contactmee.html,ABoutme.html,homepage.html and portfolio.html */
 
 #social{
-  display: inline;
-  padding: 38%;
+  display: block;
   padding-top: 11%;
   text-align: center;
-  text-decoration: none;
 }
 
 /*  ***************
