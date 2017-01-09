@@ -70,15 +70,11 @@ ul.topnav li.right {
 
 /* .mmainimage is a class for main image in the homepage */
 
-.tanu.png{
-  display: block;
-  width: 400px;
-  height: 400px;
-  margin: auto;
-  text-align: center;
-  text-decoration: none;
-  margin-left: 35%;
-}
+.mainindexpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+  }
 
 /* random image id */
 
