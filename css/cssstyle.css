@@ -70,11 +70,14 @@ ul.topnav li.right {
 
 /* .mmainimage is a class for main image in the homepage */
 
-.mainindexpic {
-    display: block;
-    margin-left: auto;
-    margin-right: auto
-  }
+.mainindexpic{
+  display: block;
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  text-align: center;
+  text-decoration: none;
+}
 
 /* random image id */
 
