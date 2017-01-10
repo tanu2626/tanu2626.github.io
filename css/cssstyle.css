@@ -102,6 +102,13 @@ ul.topnav li.right {
   text-align: center;
 }
 
+
+.skills{
+   display: block;
+   text-align: center;
+   font-size: 20px;
+
+}
 /* class for resume image */
 
 .resumeimage{
