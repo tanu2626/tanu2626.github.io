@@ -72,8 +72,8 @@ ul.topnav li.right {
 
 .mmainimage {
   display: block;
-  width: 400px;
-  height: 400px;
+  /*width: 400px;
+  height: 400px;*/
   margin: auto;
   text-align: center;
   text-decoration: none;
