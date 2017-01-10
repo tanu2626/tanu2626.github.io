@@ -107,9 +107,12 @@ ul.topnav li.right {
    display: block;
    text-align: center;
    font-size: 35px;
-   color: solid black;
-
+   color:#8607D9;
+   font-style: italic;
+   font-family: Trebuchet MS;
 }
+
+
 /* class for resume image */
 
 .resumeimage{
