@@ -106,7 +106,8 @@ ul.topnav li.right {
 .skills{
    display: block;
    text-align: center;
-   font-size: 20px;
+   font-size: 35px;
+   color: solid black;
 
 }
 /* class for resume image */
